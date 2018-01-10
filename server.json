@@ -1,0 +1,5 @@
+{
+  "auth": [
+    { "user": "user", "password": "12345678", "ativo": true }
+  ]
+}
